@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-You can download my CV [here](../CV_Maojiang_Su.pdf).
+You can download my CV [here](../files/CV_Maojiang_Su.pdf).
